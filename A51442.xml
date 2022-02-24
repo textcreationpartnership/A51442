@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative panegyrical of the life, sickness, and death, of George ... Lord Bishop of Derry in Ireland as it was delivered at his funerals in the Cathedral Church of the Holy Trinity (commonly called Christ Church) in Dublin on Friday the 12th of January, Anno Domini 1665/6 / by R. Mossom ...</title>
+            <author>Mossom, Robert, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51442</idno>
+            <idno type="STC">Wing M2864_VARIANT</idno>
+            <idno type="STC">ESTC R14435</idno>
+            <idno type="EEBO-CITATION">12938606</idno>
+            <idno type="OCLC">ocm 12938606</idno>
+            <idno type="VID">95831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 363:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative panegyrical of the life, sickness, and death, of George ... Lord Bishop of Derry in Ireland as it was delivered at his funerals in the Cathedral Church of the Holy Trinity (commonly called Christ Church) in Dublin on Friday the 12th of January, Anno Domini 1665/6 / by R. Mossom ...</title>
+                  <author>Mossom, Robert, d. 1679.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb, and are to be sold by Timothy Garthwait ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665/6 [i.e. 1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilde, George, 1610-1665.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95831:1" rendition="simple:additions"/>
+            <p>A NARRATIVE Panegyrical Of the Life, Sickneſs, and Death, OF GEORGE, By Divine Providence, Lord Biſhop of DERRY IN IRELAND: As it was delivered at his Funerals in the Cathedral Church of the <hi>Holy Trinity</hi> (commonly called <hi>Chriſt Church</hi>) in <hi>Dublin,</hi> on Friday the 12<hi rend="sup">th</hi> of <hi>January, Anno Domini</hi> 1665/6.</p>
+            <p>By <hi>R. Moſſom,</hi> D. D. and Dean of the ſaid Cathedral Church.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb,</hi> and are to be ſold by <hi>Timothy Garthwait</hi> at the Kings Head in St. <hi>Pauls</hi> Church-yard. 1665/6.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95831:2"/>
+            <pb n="3" facs="tcp:95831:2"/>
+            <head>A Narrative Panegyrical of the Life, Sickneſs, and Death, of <hi>George</hi> Lord Biſhop of <hi>Derry;</hi> who departed this life at <hi>Dublin,</hi> on Friday the 29<hi rend="sup">th</hi> day of <hi>De<g ref="char:EOLhyphen"/>cember, Anno Dom.</hi> 1666/5.</head>
+            <opener>
+               <salute>Men, Brethren, and Fathers,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N Conformity to the ancient practice of the Primitive Saints, and the continued Cuſtom of Chriſts Church, we are here met in this preſent Congregation, to perform the Funeral Rights due to the Body and the Memory of the Right Reverend Father in God, <hi>George,</hi> by Divine Providence, Lord Biſhop of <hi>Derry,</hi> lately deceaſed. A Biſhop he was by Divine Ordination; Lord Biſhop, by Royal Com<g ref="char:EOLhyphen"/>miſſion. This our <hi>Eliſha</hi>'s double Mantle of Honor; ſo well conſiſtent are theſe two, A
+<pb n="4" facs="tcp:95831:3"/>
+Lord Spiritual, and the Spirit of the Lord; which Spirit of the Lord, may make the Ho<g ref="char:EOLhyphen"/>nor immortal, and yet not the Perſon. For that, whereas Men of high Dignity, either in Church or State, are (for their Light and In<g ref="char:EOLhyphen"/>fluence) aptly called <hi>Stars;</hi> I may ſay of the Right Reverend Perſonage, whoſe Funerals we celebrate: I may ſay of him in a better ſenſe then <hi>Lipſius</hi> did of <hi>Origen, Stella, utinam non caduca!</hi> A Star he was, I wiſh he had not been a falling one! But why ſhould I thus wiſh? ſeeing he is advanced by his fall; for in an happy exchange of Mortality for Glory, this Star is become ſixt, fixt in the Firmament of Heaven, the Society of the Bleſſed; leaving behinde him on Earth, the character of O <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for that he was a Bleſſed Aſſertor of Loyalty; a Bleſſed Champion of the Faith; a Bleſſed Patron of the Poor; a Bleſſed Father of the Church; and therefore now a Bleſſed Saint in Heaven: The memory of whoſe name ſhall be venera<g ref="char:EOLhyphen"/>ble to all Poſterity in the <hi>Annals</hi> of the <hi>Churches Worthies.</hi>
+            </p>
+            <p>Waving what might be ſaid of his inge<g ref="char:EOLhyphen"/>nuous
+<pb n="5" facs="tcp:95831:3"/>
+Education; his Academical Degrees; and thoſe eſteems in <hi>Oxford,</hi> which brought him to <hi>Lambeth:</hi> Made Domeſtick Chap<g ref="char:EOLhyphen"/>lain to the then Lord Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> lately Martyred; of whom, in the Church, and in the Tower; he had a Pre<g ref="char:EOLhyphen"/>ſident ſuitable to his Principles, of being actively zealous, and patiently reſolute in the Kings Cauſe, and in the Churches Ser<g ref="char:EOLhyphen"/>vice: Waving all theſe, I begin my Com<g ref="char:EOLhyphen"/>memorations of him, where I firſt began mine Acquaintance with him; and that was, not long after the Death of <hi>Charles</hi> the Firſt, King and Martyr.</p>
+            <p>Our firſt meeting was in the Fiery Furnace of the Churches Perſecutions (and of thoſe things I may ſpeak the more knowingly, <hi>Quorum magna pars fui,</hi> as having then a great ſhare with him in thoſe Sufferings) though indeed ſuch was the Power of Divine Pro<g ref="char:EOLhyphen"/>vidence, reſtraining the fury of thoſe Flames, that they ſcorched not his Garments, nor an Hair of his Head periſhed; notwithſtanding he ſtood in the face of the then prevailing Factions, and was daily threatned with Sur<g ref="char:EOLhyphen"/>prize
+<pb n="6" facs="tcp:95831:4"/>
+and Impriſonment. For ſome years, he hovered, like <hi>Noahs</hi> Dove, over the Waters of Confuſion; ſometimes Preaching in the Countrey, and ſometimes in the City; ſome<g ref="char:EOLhyphen"/>times in private, and ſometimes in publick, as he found opportunity offered to promote Piety, and perſwade Loyalty: At length Di<g ref="char:EOLhyphen"/>vine Providence receives the Dove into the Ark; an Houſe is provided near <hi>Fleetſtreet</hi> in <hi>London,</hi> and in the Houſe an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an up<g ref="char:EOLhyphen"/>per Room is prepared, after the manner of Primitive Devotion; which upper Room becomes an Oratory, fitted for the Preaching of the Word, and Adminiſtring the Sacra<g ref="char:EOLhyphen"/>ments, with a conſtant uſe of the Publick <hi>Liturgy</hi> of the Church.</p>
+            <p>And here I cannot but recount with joy, amidſt all this Funeral Sorrow, what were then the holy ardors of all fervent Devotions, in Faſtings, and Prayer, and Solemn Humili<g ref="char:EOLhyphen"/>ations; Ay, in Feſtival and Sacramental Solemnities. O the lift-up praying, and yet ſometimes down-caſt weeping eyes of humble Penitents! O the often extended, and yet as often enfolded arms of ſuppliant
+<pb n="7" facs="tcp:95831:4"/>
+Votaries! Upon days of Solemnity, O how early, and how eager were the Peoples de<g ref="char:EOLhyphen"/>votions! that certainly, then, if ever, the Kingdom of Heaven ſuffered Violence; ſo many, with <hi>Jacob,</hi> wreſtling with God in Prayer, not letting him go till he gave them a Bleſſing; and no Bleſſing would anſwer the importunity of all theſe, but that Soveraign Bleſſing of theſe Kingdoms and Churches; a King reſtored to His Throne, and that King, <hi>Charles</hi> the Second; reſtoring with His Throne, both Churches and Kingdoms. And now the Shepherd which kept this Flock, even in the midſt of Wolves; that Prieſt that then ſerved at the Altar, amidſt all the variety of State Confuſions, Inſtructing, Sup<g ref="char:EOLhyphen"/>porting, and Encouraging, by Precept, by Pattern, and by Prayer, it was Dr. <hi>George Wilde,</hi> afterwards by Divine Providence Lord Biſhop of <hi>Derry,</hi> the Perſonage de<g ref="char:EOLhyphen"/>ceaſed.</p>
+            <p>And whereas ſome good <hi>Obadiahs</hi> did then hide and feed the Lords Prophets, it was his care to communicate to others relief, what himſelf received for his own ſupport.
+<pb n="8" facs="tcp:95831:5"/>
+Many Miniſters Sequeſtred, many Widows Afflicted, many Royaliſts Impriſoned, and almoſt Famiſhed, can teſtifie the diffuſive bounty of his hand, diſpenſing to others in reliefs of Chariry, what himſelf received of others in Offerings of Devotion.</p>
+            <p>Notwithſtanding that Wing of Providence which was over him for his protection, yet did he ſometime ſuffer Surprize and Impriſon<g ref="char:EOLhyphen"/>ment; but <hi>Nubecula fuit, cito tranſivit,</hi> it was a ſmall cloud and ſoon paſſed over; and if at any time the Perſecution was ſo hotly purſued, that his mouth for a while was ſtopt, yet even then, (as <hi>Maldonat</hi> ſays of <hi>John Baptiſt,</hi> that <hi>Miraculum non fecit, magnum fuit; John</hi> indeed did no miracle, yet was he himſelf a great Miracle) ſo may I ſay of this then Loyal Doctor, <hi>Concionem non fecit, magna fuit;</hi> when he Preached no Sermon, yet was he himſelf in the pattern of Patience and Piety, a good Sermon.</p>
+            <p>After this, when His Majeſties ſafe Return (the Univerſal joy of theſe three Kingdoms) did at once open the Subjects hearts, and the Churches doors to Loyalty, and the Liturgy
+<pb n="9" facs="tcp:95831:5"/>
+together; then did the deceaſed leave his private Oratory, in exchange for the publick Temple. And ſure I am, ſuch was the ſtrength of his merit and intereſt, as could undoubtedly have procured him preferment in <hi>England,</hi> equal to that he had in <hi>Ireland:</hi> Yet this I know, when he had in his delibe<g ref="char:EOLhyphen"/>rate choice, whether to accept of the Biſhop<g ref="char:EOLhyphen"/>rick of <hi>Derry,</hi> or ſome other of equal Dig<g ref="char:EOLhyphen"/>nity, that which would have been the Ar<g ref="char:EOLhyphen"/>gument of anothers refuſal, was the very reaſon of his choice, even the difficulty of the ſervice; as zealouſly intending what might promote not ſo much his Dignity, as Gods glory; not ſo much his advantage, as the Churches good; or rather indeed, in the Churches good, ſeeking his beſt advantage, as having an eye (with <hi>Moſes</hi>) to the recom<g ref="char:EOLhyphen"/>pence of reward.</p>
+            <p>And now beholding him taking his leave of his <hi>London</hi>-friends, in his farewel deſign for <hi>Derry,</hi> methinks I ſee St. <hi>Paul</hi> encom<g ref="char:EOLhyphen"/>paſſed with thoſe devoted ones of the Church of <hi>Epheſus,</hi> taking his farewel bound for <hi>Jeruſalem (Acts</hi> 20.) Some are ſighing,
+<pb n="10" facs="tcp:95831:6"/>
+ſome are weeping, all are ſorrowing; Sor<g ref="char:EOLhyphen"/>rowing for this eſpecially, that they believed they ſhould ſee his face no more. Sure, the good Man did here undergo an hard tryal, much like that of St. <hi>Pauls:</hi> And had he not had an Heroick Piety, cheerfully to encoun<g ref="char:EOLhyphen"/>ter difficulties and dangers, he had certainly been entangled with his friends embraces; but his love to Souls brings him to <hi>Derry,</hi> where he hath left this teſtimony of honor<g ref="char:EOLhyphen"/>able fame, That he was faithful in his office to God, the King, and the Church. In his conſtant Preaching, he fed the Peoples Souls, and not their Humors; and in his Paſtoral Diſcipline, he ſtruck at their Pertinacy, not their Perſons. He did <hi>aedificare,</hi> but not <hi>in ruinam</hi> (in the words of <hi>Tertullian</hi>) he did edifie, but not to ruine, as do too many with their edifying Sermons (falſly ſo called) who teach Sedition and Schiſm, under the mask of Religion and Zeal, which the more home they Preach, the more hurt they do.</p>
+            <p>This we too ſadly know, the deceaſed Biſhop, Taper-like, conſumed himſelf to give light to others; ſo that, to all contemners of
+<pb n="11" facs="tcp:95831:6"/>
+his Miniſtry, and oppoſers of his Paſtoral charge; to them, I ſay, Behold, not the duſt of his feet, but even the carcaſe of his body is caſt off againſt you. For, for your ſakes it was that his heart became troubled with cares, and his ſpirit waſted with ſtudies, and thereby his body the ſooner brought to its Grave.</p>
+            <p>After, almoſt, five years continuance in his Epiſcopal charge, as the duty of his place, in ſervice to the King and Church did re<g ref="char:EOLhyphen"/>quire, he repairs to <hi>Dublin</hi> to attend the ſitting again of the Parliament, in which himſelf was a Peer; and at his entrance into the City, he brought death in his face, which not long after ſeized his heart; ſome ſenſible decays he had, to which his ſprightly <hi>Genius</hi> would not ſtoop, but bore up with chearful<g ref="char:EOLhyphen"/>neſs till <hi>Chriſtmas</hi> Eve, intending the ſervice of Pulpit and Altar, of Sermon, and Sacra<g ref="char:EOLhyphen"/>ment, at St. <hi>Brides</hi> on <hi>Chriſtmas</hi>-day, and ſit<g ref="char:EOLhyphen"/>ting up late in preparation for that intended Service, he was ſeized with the firſt <hi>Paroxyſme</hi> of his ſickneſs, as a ſummons of Death, who now laid ſiege to the Cittadel of his Heart.
+<pb n="12" facs="tcp:95831:7"/>
+And thus though he died not ſtanding in the Pulpit, yet he died ſtudying of the Sermon; and bleſſed is that ſervant, whom his Lord, when he cometh, ſhall finde ſo doing. He was then upon his duty and guard, when by Death encountred; which encounter hath thus far onely prevailed, to a conqueſt over the outward man: His pious Soul being on the Friday following, tranſlated by the mi<g ref="char:EOLhyphen"/>niſtry of Angels from the Militant ſtate of <hi>Chriſts Church</hi> on Earth, to that ſtate which is Triumphant in Heaven.</p>
+            <p>Now before we cloſe, give me leave to reflect a while in ſome pertinent obſervations upon the Life, and Sickneſs, and Death of the deceaſed. (1.) In a review, reflecting upon his Life, I obſerve, his days were like the Suns revolution, in a continued ſphear of heavenly vertues: And that to give you a Summary of his Religious converſation, were to do with Chriſtian piety, what <hi>Flo<g ref="char:EOLhyphen"/>rus</hi> did with the <hi>Roman</hi> Hiſtory, <hi>In brevi tabella totam ejus imaginem amplecti,</hi> draw its full Portraicture in a ſhort Table; for in<g ref="char:EOLhyphen"/>deed he was no Mercurial Statue, to point
+<pb n="13" facs="tcp:95831:7"/>
+out the way, and not walk it himſelf; no, but rather he was like the Angelical Star, at the Birth of Chriſt, which declared Chriſt born to the <hi>Magi,</hi> and went along with them to him; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the words of St. <hi>Baſil</hi> (on <hi>Pſal.</hi> 63.) He was a Preacher in Life, as well as in Doctrine; in Pattern, as well as in Pre<g ref="char:EOLhyphen"/>cept.</p>
+            <p>Again, I obſerve, ſuch were his frequent Faſtings and Prayers, that whereſoever he did reſide, if he had not time and place, opportunity and conveniency for Gods pub<g ref="char:EOLhyphen"/>lick Worſhip, he either made his Chamber a Chappel, or the Houſe a Temple; the Churches Prayers being ſtill a part of his con<g ref="char:EOLhyphen"/>ſtant Devotions.</p>
+            <p>Again, I obſerve, his Charity that was greatly diffuſive, even into all the Three Kingdoms, having his poor Widows, his neceſſitous Gentlemen, young Schollars, and puny Catechiſts, all his continued Pen<g ref="char:EOLhyphen"/>ſioners; ſome in <hi>London,</hi> ſome in <hi>Cambridge,</hi> ſome in <hi>Oxford,</hi> ſome in <hi>Dublin,</hi> ſome at <hi>Glaſcow,</hi> ſome at <hi>Derry,</hi> ſome at <hi>Faughen;</hi>
+               <pb n="14" facs="tcp:95831:8"/>
+indeed, what place did he ever come into, or could well ſend into, that did not taſte ſome influence of his bounty? The whole ſum of his Charity (beſides the charge of his Buildings) hath been computed by them that beſt know it, 500 <hi>l. per annum.</hi> And obſerve, that which ſpeaks his goodneſs hugely ingenuous, when he gave any thing of his Purſe, in a contribution of Charity, he gave ſomething alſo of himſelf in a com<g ref="char:EOLhyphen"/>paſſionate pitty; ay, and ſomething of his Office too, in a Benediction or Prayer.</p>
+            <p>In the Will which he made, there are in<g ref="char:EOLhyphen"/>deed many Legacies, but none to gratifie the rich, moſt to relieve the neceſſitous; ſome indeed are Honorary, ſuch as that of his gi<g ref="char:EOLhyphen"/>ving to the Library of St. <hi>Johns</hi> Colledge in <hi>Oxford,</hi> many of his beſt <hi>Folio's,</hi> with an 100 <hi>l.</hi> towards the building their Founders Tomb: Ay, and that his Charity might not die with him, he deſires in his Will, that what could be ſpared from the charge of his Funerals (which he ordered to be decent and not pompous) might be diſpoſed of for the relief of the poor. Thus the deceaſed dy<g ref="char:EOLhyphen"/>ing
+<pb n="15" facs="tcp:95831:8"/>
+in the Lord, reſts from his labors, and his works follow him: So that great no doubt, is his gain in Heaven, who is entred into the joy of his Lord; but ſure I am, great is ours, and the Churches loſs on Earth, which thouſands in both Kingdoms do be<g ref="char:EOLhyphen"/>wail; His number of endeared Friends, out<g ref="char:EOLhyphen"/>vying that of moſt mens common acquain<g ref="char:EOLhyphen"/>tance. O how many are ready to ſay of him, taken from them by Death, what St. <hi>Jerome</hi> ſaid of <hi>Nepotian, O, avulſa ſunt viſcera mea!</hi> O, my Bowels are torn from me! Ay, in a louder accent of ſorrow, how many are there (poor Souls) who cry out, <hi>Avulſa ſunt ali<g ref="char:EOLhyphen"/>menta mea!</hi> Oh, my Bread, my Food, and ſo my Life is taken from me by his Death! Such was their maintenance and ſupplies adminiſtred from his hand of Bounty and Love.</p>
+            <p>And obſerve, what is not to be buried in ſilence, his devotions ſo zealous, were all a Veſtal Flame, a Virgin Piety, not defiled with the raviſhments of the Fleſh, or the impurities of the World; he had eſpouſed himſelf to Chriſt, and therefore engaged in
+<pb n="16" facs="tcp:95831:9"/>
+no other marriage, then that of his Soul, in love to Jeſus, according to that which was his frequent and fervent ejaculation, <hi>O bone Jeſu, eſto mihi Jeſus!</hi> O good Jeſu, be thou a Jeſus to me!</p>
+            <p>Here then away with that ſcandalous re<g ref="char:EOLhyphen"/>proach caſt upon Epiſcopacy by Schiſm and Sedition, as if forſooth, by ſome ſtrange en<g ref="char:EOLhyphen"/>chantment and charm, to be made Lord Biſhop, were to unmake a good Man, and a good Miniſter. Here we ſee that ſcandalous reproach perfectly confuted, and were it not too too impudent, this and many other de<g ref="char:EOLhyphen"/>ceaſed Preſidents, as well as other ſurviving examples might wholly ſilence it. Sure I am, beyond all contradiction, we have ſeen Dr. <hi>Wilde,</hi> and the Biſhop of <hi>Derry,</hi> one and the ſame in Piety, in Charity, in diligent Preaching, holy Living, hoſpitable Houſe<g ref="char:EOLhyphen"/>keeping, and all other the commendable qualifications of a good Man, and a good Biſhop.</p>
+            <p>To draw to a cloſe, reflect we upon the laſt ſcene of all his Labors, his Sickneſs, and Death; know then, he having received, not
+<pb n="17" facs="tcp:95831:9"/>
+long before, the Bleſſed Sacrament of the holy Euchariſt, his preparation for death was no ſick-bed task; and therefore did he ra<g ref="char:EOLhyphen"/>ther meet his diſſolution, then flie it. He was none of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thoſe ſtrange ſort of men <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—. He lived as one expecting Death, and died as one aſſured of Life. He felt no <hi>retinacula animae,</hi> no pull-backs of the Soul, to hold him from Chriſt, either from love of enjoy<g ref="char:EOLhyphen"/>ing the World, or fear of leaving it: So that being in firm Peace of Conſcience, and full Hope of Glory, when I minded him of the approaches of Death, he did with much <hi>Pathos</hi> of Devotion, utter that our Saviours preſcribed Petition, <hi>Thy will be done in Earth, as it is in Heaven. Ay, Thy will, O God, be done</hi> (ſays he) <hi>In hac terra mea—This my Earthly Body,</hi> ſmiting upon his Breſt.</p>
+            <p>Again, quickning his Devotion from the Myſtery of the Churches Feſtival, Chriſt come in the Fleſh, as being come the deſire of all Nations, he pathetically broke forth in a pious deſcant upon the Prophets words concerning the Meſſiah, <hi>Hag.</hi> 2.7. That he
+<pb n="18" facs="tcp:95831:10"/>
+was <hi>Deſideratus cunctis Gentibus, deſiderium omnium Gentium, &amp; ſumme deſiderabilis,</hi> e<g ref="char:EOLhyphen"/>videncing by the <hi>Pathos</hi> of his expreſſions, That Chriſt was indeed the cheif deſire and delight of his Soul: Which holy Flame was kept alive on the Altar of his Heart, in con<g ref="char:EOLhyphen"/>tinually renewed Devotions, till his prevail<g ref="char:EOLhyphen"/>ing ſickneſs cloſing his Breath, the holy Flame mounted up with his Soul to Heaven, there to become Seraphick in Glory.</p>
+            <p>Thus (God having granted what he ſo ear<g ref="char:EOLhyphen"/>neſtly deſired, his ſenſe and underſtanding quick unto the laſt) in a ſweet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in<g ref="char:EOLhyphen"/>deed, this ſervant of the Lord did depart in peace, without any ſtruglings of Body, or of Soul (<hi>In articulo mortis,</hi> in the minute of his diſſolution) as having already begun his eternal reſt. And well it is I am come to his reſt; I queſtion elſe where I could have ſtopt, being carried away with love and zeal upon ſo dear a Subject.</p>
+            <p>But now I am at a pauſe, I remember well we are to perform Funeral Rites due to the Body, as well as the Memory of the deceaſed; ſo that I will onely add this, As for you, who
+<pb n="19" facs="tcp:95831:10"/>
+are his Friends (and who is not a friend to ſo eminent a Vertue and Goodneſs, ſo excel<g ref="char:EOLhyphen"/>lent a Piety and Charity?) Let me prompt you to this ſervice, and I ſhall readily com<g ref="char:EOLhyphen"/>ply with you in the performance, that our Hearts and Affections may make him a Tomb, and our Lives in imitation write the Epitaph; and if you pleaſe, let the Inſcription be, thoſe words of the Apoſtle, <hi>Chriſt is our Life;</hi> And ſo, <hi>when Chriſt who is our life, ſhall appear, then ſhall we alſo appear with him in glory.</hi>
+            </p>
+            <closer>Halleluiah.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
